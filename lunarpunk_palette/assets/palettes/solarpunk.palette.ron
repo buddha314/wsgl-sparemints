@@ -1,0 +1,9 @@
+// assets/palettes/solarpunk.palette.ron
+
+(
+    name: "Solarpunk",
+    background: "#2D6A4F",
+    body: "#FFFFFF",
+    primary: "#FFD166",
+    secondary: "#06D6A0",
+)

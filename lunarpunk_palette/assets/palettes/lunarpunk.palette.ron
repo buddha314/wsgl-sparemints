@@ -1,0 +1,9 @@
+// assets/palettes/lunarpunk.palette.ron
+
+(
+    name: "Lunarpunk",
+    background: "#0A0A1A",
+    body: "#4A3888",
+    primary: "#C0A8FF",
+    secondary: "#FFFFFF",
+)
